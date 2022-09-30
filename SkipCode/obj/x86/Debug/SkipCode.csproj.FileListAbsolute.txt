@@ -1,0 +1,15 @@
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\bin\Debug\SkipCode.exe
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\bin\Debug\SkipCode.pdb
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.Form1.resources
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.Properties.Resources.resources
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.exe
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.pdb
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.FormSearchTwo.resources
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.FormLetterFrequency.resources
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.FormTorah.resources
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.FormProbability.resources
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.FormSearchInMatrix.resources
+D:\Develope\C#\Windows Forms Applications\SkipCode\SkipCode\obj\x86\Debug\SkipCode.FormAbout.resources
